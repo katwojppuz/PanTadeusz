@@ -1,3 +1,5 @@
+<?php
+echo('
 <!DOCTYPE html>
 <html lang="pl">
     <head>
@@ -22,7 +24,7 @@
                         <a href="./k2.html" class="list-group-item list-group-item-action"><i class="bi bi-bookmark-fill"></i> Księga 2</a>
                         <a href="./k3.html" class="list-group-item list-group-item-action"><i class="bi bi-bookmark-fill"></i> Księga 3</a>
                         <a href="./k4.html" class="list-group-item list-group-item-action"><i class="bi bi-bookmark-fill"></i> Księga 4</a>
-                        <a href="./k5.html" class="list-group-item list-group-item-action"><i class="bi bi-bookmark-fill"></i>  Księga 5</a>
+                        <a href="./k5.html" class="list-group-item list-group-item-action"><i class="bi bi-bookmark-fill"></i> Księga 5</a>
                         <a href="./k6.html" class="list-group-item list-group-item-action"><i class="bi bi-bookmark-fill"></i> Księga 6</a>
                         <a href="./k7.html" class="list-group-item list-group-item-action"><i class="bi bi-bookmark-fill"></i> Księga 7</a>
                         <a href="./k8.html" class="list-group-item list-group-item-action"><i class="bi bi-bookmark-fill"></i> Księga 8</a>
@@ -43,3 +45,5 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
     </body>
 </html>
+')
+?>
